@@ -8,7 +8,10 @@ This project displays a **New Year countdown (5 → 1)** on an **OLED SSD1306 di
 ## 🧰 Hardware Required
 - Arduino UNO  
 - OLED Display (SSD1306 – 128x64, I2C)  
-- Jumper Wires  
+- Jumper Wires
+---
+## 🤖 Circut digram 
+<img width="850" height="721" alt="Screenshot 2025-12-31 225057" src="https://github.com/user-attachments/assets/1e1592f7-91f9-49eb-9b05-a36bb1bfe588" />
 
 ---
 
